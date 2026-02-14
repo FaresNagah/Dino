@@ -60,7 +60,11 @@ noBtn.addEventListener("mouseover", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
+<<<<<<< HEAD
     title.textContent = "I didn't mean to make you cringe from my feelings i think i forced you to dance";
+=======
+    title.textContent = "thank you i knew that you will agree :)";
+>>>>>>> b1e7fce (Your message)
 
     catImg.src = "cat_dance.gif";
 
